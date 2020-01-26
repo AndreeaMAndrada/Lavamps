@@ -1,0 +1,96 @@
+body{
+  background-color:#f4d7f4;
+}
+
+
+.Present{
+    width: 300px;
+    position: relative;
+    bottom: 250px;
+}
+.Creator{
+    position: relative;
+   left: 1390px; 
+   bottom:110px;
+   margin: auto;
+   
+}
+.Creat{
+    position: relative;
+    left: 1300px;
+  bottom: 60px;
+  font-family: cursive;
+  font-size: 15px;
+  margin: auto;
+}
+.Name{
+    position: relative;
+    left: 20px ;
+    bottom: 30px;
+    font-size: 60px;
+    font-family: cursive;
+    border-left: 8px solid rgb(241, 103, 207);
+  background-color: rgb(240, 196, 238);
+}
+#Home{
+    position: relative;
+    left: 20px;
+    bottom: 90px;
+    font-family: cursive;
+  font-size: 20px;
+}
+#Story{
+    position: relative;
+    left: 130px;
+    bottom: 135px;
+    font-family: cursive;
+  font-size: 20px;
+  font-style: normal;
+}
+#Shop{
+    position: relative;
+    left: 260px;
+    bottom: 180px;
+    font-family: cursive;
+  font-size: 20px; 
+}
+#Community{
+    position: relative;
+    left: 400px;
+    bottom: 230px;
+    font-family: cursive;
+  font-size: 20px; 
+}
+#Owners{
+    position: relative;
+    left: 600px;
+    bottom: 280px;
+    font-family: cursive;
+  font-size: 20px;   
+}
+#Concept{
+  position: relative;
+  bottom: 600px;
+  left: 350px;
+  font-family: cursive;
+  font-size: 20px;
+}
+#News{
+  position: relative;
+  bottom: 300px;
+  left: 350px;
+  font-family: cursive;
+  font-size: 20px;
+}
+#Latest{
+  position: relative;
+  bottom: 350px;
+  left: 700px;
+  font-family: cursive;
+  font-size: 20px;
+}
+#Date{
+  position: relative;
+  bottom: 980px;
+  left: 1050px;
+}
